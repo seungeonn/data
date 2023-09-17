@@ -1,0 +1,13 @@
+{
+  "project" : [
+    {
+      "id" : "0",
+      "name1" : "픽싱 틴트",
+      "name2" : "픽싱 틴트 4g",
+      "price" : "12,000",
+      "description" : "물들 듯 편안하게 픽싱되는 하이드로 매트 틴트",
+      "hashTag" : ["#안묻픽싱"],
+      "image" : "https://www.etude.com/wp-content/uploads/2022/07/fixingtint.png"
+    }
+  ]
+}
