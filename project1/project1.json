@@ -8,6 +8,15 @@
       "description" : "물들 듯 편안하게 픽싱되는 하이드로 매트 틴트",
       "hashTag" : ["#안묻픽싱"],
       "image" : "https://www.etude.com/wp-content/uploads/2022/07/fixingtint.png"
+    },
+    {
+      "id" : "1",
+      "name1" : "test1",
+      "name2" : "test name",
+      "price" : "52,000",
+      "description" : "sub description",
+      "hashTag" : ["#안물안궁", "#연습이다"],
+      "image" : "https://www.etude.com/wp-content/uploads/2022/07/fixingtint.png"
     }
   ]
 }
