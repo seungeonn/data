@@ -6,8 +6,9 @@
       "price": "12,000",
       "description": "물들 듯 편안하게 픽싱되는 하이드로 매트 틴트",
       "hashTag": ["#안묻픽싱"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2, 3, 4, 5, 6]
+      "detailLeft": [0, 1, 2, 3, 4],
+      "detailRight": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+      "page" : "https://brand.naver.com/etude/products/5478528195?n_media=11068&n_query=%ED%94%BD%EC%8B%B1%ED%8B%B4%ED%8A%B8&n_rank=3&n_ad_group=grp-a001-02-000000019676144&n_ad=nad-a001-02-000000129026702&n_campaign_type=2&n_mall_id=etudehouse1&n_mall_pid=5478528195&n_ad_group_type=2"
     },
     {
       "id": "1",
@@ -16,8 +17,9 @@
       "price": "30,000",
       "description": "나만의 워너비 아이룩을 완성해주는 My Playlist 팔레트",
       "hashTag": ["#웜톤 팔레트", "#쿨톤 팔레트"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0, 1, 2, 3],
+      "detailRight": [0, 1, 2, 3, 4 ,5, 6, 7 ,8 ,9, 10 ,11 ,12 ,13],
+      "page" : "https://brand.naver.com/etude/products/8746725593"
     },
     {
       "id": "2",
@@ -26,8 +28,9 @@
       "price": "15,000",
       "description": "첫 화장 그래도 픽싱 한 올 한 올 깔끔하게 발리는 컬링 마스카라",
       "hashTag": ["#1등컬링", "#워터프루프"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0, 1, 2],
+      "detailRight": [0, 1, 2, 3, 4, 5, 6],
+      "page" : "https://brand.naver.com/etude/products/5671092750"
     },
     {
       "id": "3",
@@ -36,8 +39,9 @@
       "price": "20,000",
       "description": "셀카 얼굴처럼 타고난 듯 자연스러운 그림자 쉐딩 완성",
       "hashTag": ["#음영쉐딩", "#조효진쉐딩"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0, 1, 2, 3, 4],
+      "detailRight": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+      "page" : "https://brand.naver.com/etude/products/5598346984"
     },
     {
       "id": "4",
@@ -46,8 +50,9 @@
       "price": "29,000",
       "description": "예민해진 피부를 편안하고 촉촉하게, 순하게 진정시켜주는 저자극 비건 포뮬러의 집중 수준 진정 앰플 에센스",
       "hashTag": ["#순정", "#엠플에센스"],
-      "detailLeft": "4",
-      "detailRight": "2"
+      "detailLeft": [0,1,2,3,4],
+      "detailRight": [0,1,2,3,4,5,6],
+      "page" : "https://brand.naver.com/etude/products/8521306856"
     },
     {
       "id": "5",
@@ -56,8 +61,9 @@
       "price": "23,000",
       "description": "고농축 카페인 효과 그대로! 더 마일드해진 포뮬러!",
       "hashTag": ["#4주후", "#고농축성분"],
-      "detailLeft": "4",
-      "detailRight": "2"
+      "detailLeft": [0,1,2,3],
+      "detailRight": [0,1,2,3,4,5,6,7],
+      "page" : "https://brand.naver.com/etude/products/4631732401"
     },
     {
       "id": "6",
@@ -66,8 +72,9 @@
       "price": "13,000",
       "description": "맑은 물빛이 촉촉하게 스며드는 #촉촉스밈틴트",
       "hashTag": ["#물빛스밈틴트", "#청량틴트"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0, 1, 2, 3, 4],
+      "detailRight": [0,1, 2,3,4,5,6,7,8],
+      "page" : "https://brand.naver.com/etude/products/9100557217"
     },
     {
       "id": "7",
@@ -76,8 +83,9 @@
       "price": "14,000",
       "description": "부드럽게 그려지고 완벽하게 픽싱되는 올-프루프 브러쉬 아이라이너",
       "hashTag": ["#아이라이너", "#프루프라이너"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0,1, 2, 3],
+      "detailRight": [0, 1, 2,3,4,5,6,7,8],
+      "page" : "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000187706"
     },
     {
       "id": "8",
@@ -86,8 +94,9 @@
       "price": "25,000",
       "description": "로맨틱한 고스룩을 완성해주는 웨어러블 감성 치크",
       "hashTag": ["#무신사단독", "#에뛰드X러브이즈트루", "#한정판매"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0, 1, 2, 3, 4],
+      "detailRight": [0, 1, 2,3,4,5,6],
+      "page" : "https://www.musinsa.com/app/goods/3126512/0"
     },
     {
       "id": "9",
@@ -96,8 +105,9 @@
       "price": "13,000",
       "description": "양 볼에 맑게 빛나는 자.연.광 블러셔",
       "hashTag": ["#수채화발색", "#자연광블러셔"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0, 1, 2, 3],
+      "detailRight": [0,1, 2,3,4,5,6,7],
+      "page" : "https://brand.naver.com/etude/products/8746821748"
     },
     {
       "id": "10",
@@ -106,8 +116,9 @@
       "price": "28,000",
       "description": "달콤하게 취하는 로제 와인 무드를 담은 섀도우 팔레트",
       "hashTag": ["#로제컬러", "#스윗핑크컬러"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0, 1, 2],
+      "detailRight": [0, 1, 2,3],
+      "page" : "https://brand.naver.com/etude/products/8415207701"
     },
     {
       "id": "11",
@@ -116,8 +127,9 @@
       "price": "7,000",
       "description": "약 200만개 누적 판매 진저 슈가! 입술에서 스르륵~ 녹는 고보습 립밤 스틱",
       "hashTag": ["#베어꾸", "#진저슈가"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0, 1, 2, 3],
+      "detailRight": [0, 1, 2, 3, 4, 5],
+      "page" : "https://brand.naver.com/etude/products/9083835376"
     },
     {
       "id": "12",
@@ -126,8 +138,9 @@
       "price": "28,000",
       "description": "“에뛰드X러브이즈트루 콜라보” 플레이 컬러 아이즈 9구 팔레트",
       "hashTag": ["#에뛰드X러브이즈트루", "#한정판매"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0, 1, 2, 3, 4],
+      "detailRight": [0,1, 2,3,4,5,6,7,8,9],
+      "page" : "https://www.musinsa.com/app/goods/3126547/0"
     },
     {
       "id": "13",
@@ -136,8 +149,9 @@
       "price": "28,000",
       "description": "갓 구운 빵들이 가득한 베이커리 컬러를 담은 팔레트",
       "hashTag": ["#베이커리", "#브라운컬러"],
-      "detailLeft": [1, 2, 3, 4],
-      "detailRight": [1, 2]
+      "detailLeft": [0, 1, 2],
+      "detailRight": [0, 1, 2, 3],
+      "page" : "https://brand.naver.com/etude/products/8415207701"
     }
   ]
 }
