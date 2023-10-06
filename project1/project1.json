@@ -30,7 +30,7 @@
       "description": "물들 듯 편안하게 픽싱되는 하이드로 매트 틴트",
       "hashTag": ["#안묻픽싱"],
       "detailLeft": [0, 1, 2, 3, 4],
-      "detailRight": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+      "detailRight": "new Array(9).fill(0)",
       "page" : "https://brand.naver.com/etude/products/5478528195?n_media=11068&n_query=%ED%94%BD%EC%8B%B1%ED%8B%B4%ED%8A%B8&n_rank=3&n_ad_group=grp-a001-02-000000019676144&n_ad=nad-a001-02-000000129026702&n_campaign_type=2&n_mall_id=etudehouse1&n_mall_pid=5478528195&n_ad_group_type=2"
     },
     {
