@@ -23,11 +23,11 @@
   },
 
   "makeup" : [
-    {"title1" : "강남 스트릿 룩", "title2" : "Gangnam Street LOOk"},
-    {"title1" : "플레이 리스트 룩", "title2" : "PLAYLIST LOOK"},
-    {"title1" : "BT21 MAUVE LOOK", "title2" : "BT21 모브 룩"},
-    {"title1" : "BLUSHED ROSE LOOK", "title2" : "카즈하 블러쉬드 로즈 룩"},
-    {"title1" : "Milky Presso LOOK", "title2" : "누디풀 에스프레소 룩"}
+    {"title1" : "강남 스트릿 룩", "title2" : "Gangnam Street LOOk" , "hashTag" : ["#시티에디션" , "#4색팔레트"], "item" : [1,2 ,10, 0], "left" : [0,1,2,3]},
+    {"title1" : "플레이 리스트 룩", "title2" : "PLAYLIST LOOK", "hashTag" : ["#카즈하", "#퍼스널컬러"], "item" : [3,5,11,13], "left" : [0,1,2,3]},
+    {"title1" : "BT21 MAUVE LOOK", "title2" : "BT21 모브 룩", "hashTag" : ["#BT21", "#쿠키온탑"], "item":[4,8,9], "left": [0,1,2]},
+    {"title1" : "BLUSHED ROSE LOOK", "title2" : "카즈하 블러쉬드 로즈 룩", "hashTag":["#카즈하", "#로즈톤"], "item" : [6,7,0], "left" : [0,1,2]},
+    {"title1" : "Milky Presso LOOK", "title2" : "누디풀 에스프레소 룩" , "hashTag":["#누디뮤트" , "#무드레이어"], "item" : [12,11,5,2], "left": [0,1]}
   ],
 
   "product": [{
