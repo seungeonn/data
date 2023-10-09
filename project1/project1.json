@@ -1,14 +1,14 @@
 {
 
   "mainS1":[
-    {"id": "0", "text1" :"고수분 물빛 스밈 틴트", "text2" :"프루티 듀이 틴트 지그재그 단독 런칭", "image" : "https://seungeonn.github.io/data/project1/image/main/section1/0.jpg"},
+    {"id": "0", "text1" :"ETUDE x BEARKKU", "text2" :"베어꾸는 하루종일 귀엽다꾸~❤️", "image" : "https://seungeonn.github.io/data/project1/image/main/section1/0.jpg"},
     {"id": "1", "text1" :"CITY EDITION", "text2": "매력적인 도시의 느낌을 담아낸 컬러 컬렉션", "image" : "https://seungeonn.github.io/data/project1/image/main/section1/1.jpg"},
-    {"id": "2", "text1" :"ETUDE x BEARKKU", "text2": "베어꾸는 하루종일 귀엽다꾸~❤️", "image" : "https://seungeonn.github.io/data/project1/image/main/section1/2.jpg"},
+    {"id": "2", "text1" :"고수분 물빛 스밈 틴트", "text2": "프루티 듀이 틴트 지그재그 단독 런칭", "image" : "https://seungeonn.github.io/data/project1/image/main/section1/2.jpg"},
     {"id": "3", "text1" :"무한 조합 퍼스널 컬러 팔레트", "text2": "나만의 워너비룩을 완성해주는 My Playlist", "image" : "https://seungeonn.github.io/data/project1/image/main/section1/3.jpg"},
     {"id": "4", "text1" :"7년 연속 1위! 컬링 마스카라", "text2":"깔끔한 컬링, 첫 화장 그래도 픽싱!", "image" : "https://seungeonn.github.io/data/project1/image/main/section1/4.jpg"},
     {"id": "5", "text1" :"NEW 글로우 픽싱 틴트","text2": "은은한 광이 차오르는 글로잉 틴트", "image" : "https://seungeonn.github.io/data/project1/image/main/section1/5.jpg"},
-    {"id": "6", "text1" :"민감 피부 자극도 제로","text2": "순정 약산성 5.5 진정 토너", "image" : "https://seungeonn.github.io/data/project1/image/main/section1/6.jpg"},
-    {"id": "7", "text1" :"조효진 개발! 그림자 쉐딩", "text2": "음영 메이크업 강자로 재.조.명" , "image" : "https://seungeonn.github.io/data/project1/image/main/section1/7.jpg"}
+    {"id": "6", "text1" :"조효진 개발! 그림자 쉐딩","text2": "음영 메이크업 강자로 재.조.명", "image" : "https://seungeonn.github.io/data/project1/image/main/section1/6.jpg"},
+    {"id": "7", "text1" :"민감 피부 자극도 제로", "text2": "순정 약산성 5.5 진정 토너" , "image" : "https://seungeonn.github.io/data/project1/image/main/section1/7.jpg"}
   ],
 
   "mainS3":{
@@ -23,11 +23,11 @@
   },
 
   "makeup" : [
-    {"title1" : "강남 스트릿 룩", "title2" : "Gangnam Street LOOk" , "hashTag" : ["#시티에디션" , "#4색팔레트"], "item" : [1,2 ,10, 0], "left" : [0,1,2,3]},
+    {"title1" : "강남 스트릿 룩", "title2" : "Gangnam Street LOOK" , "hashTag" : ["#시티에디션" , "#4색팔레트"], "item" : [1,2 ,10, 0], "left" : [0,1,2,3]},
     {"title1" : "플레이 리스트 룩", "title2" : "PLAYLIST LOOK", "hashTag" : ["#카즈하", "#퍼스널컬러"], "item" : [3,5,11,13], "left" : [0,1,2,3]},
-    {"title1" : "BT21 MAUVE LOOK", "title2" : "BT21 모브 룩", "hashTag" : ["#BT21", "#쿠키온탑"], "item":[4,8,9], "left": [0,1,2]},
-    {"title1" : "BLUSHED ROSE LOOK", "title2" : "카즈하 블러쉬드 로즈 룩", "hashTag":["#카즈하", "#로즈톤"], "item" : [6,7,0], "left" : [0,1,2]},
-    {"title1" : "Milky Presso LOOK", "title2" : "누디풀 에스프레소 룩" , "hashTag":["#누디뮤트" , "#무드레이어"], "item" : [12,11,5,2], "left": [0,1]}
+    {"title1" : "BT21 모브 룩", "title2" : "BT21 MAUVE LOOK", "hashTag" : ["#BT21", "#쿠키온탑"], "item":[4,8,9], "left": [0,1,2]},
+    {"title1" : "카즈하 블러쉬드 로즈 룩", "title2" : "BLUSHED ROSE LOOK", "hashTag":["#카즈하", "#로즈톤"], "item" : [6,7,0], "left" : [0,1,2]},
+    {"title1" : "누디풀 에스프레소 룩", "title2" : "Milky Presso LOOK" , "hashTag":["#누디뮤트" , "#무드레이어"], "item" : [12,11,5,2], "left": [0,1]}
   ],
 
   "product": [{
